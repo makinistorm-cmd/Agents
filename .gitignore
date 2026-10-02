@@ -1,0 +1,4 @@
+# Private business data: never uploaded to GitHub (this project is public).
+# The agents can still read these files on your computer.
+data/private/*
+!data/private/README.md

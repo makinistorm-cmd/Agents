@@ -27,3 +27,12 @@ Constraints:
 - Show the connection between AI workflow and revenue.
 - Explain that the money is not in tools. The money is in systems.
 - Make the system beginner-friendly without making it basic.
+
+Real business data:
+Real evidence lives in the /data folder (and /data/private, which is never uploaded).
+- data/audience-poll.md: what the audience says caps their income
+- data/buyer-language.md: buyers' exact words about their problems
+- data/channel-analytics.md: top videos and search terms
+- data/offers-and-pricing.md: what FuturIQ sells today
+- data/relay-test-log.md: results of strong-prompt vs. Relay tests
+Treat filled-in data files as evidence. Ignore unfilled [bracket] placeholders. Anything not supported by the data or this brief is inference and must be labeled that way.
