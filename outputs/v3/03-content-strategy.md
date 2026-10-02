@@ -1,4 +1,4 @@
-<!-- v3 runbook, phase 3 of 4. Produced by: content-angle-strategist. -->
+<!-- v3 runbook, phase 3 of 4. Produced by: content-angle-strategist. NOTE: after the brief-only market signal rerun (01b), "validate" is softened to "research" and the narrowed audience/pain are labeled [Inference] in revenue-agent-demo.md. This file is kept as the agent originally wrote it. -->
 
 # Content Strategy — "Stop Selling Hours" (v3)
 

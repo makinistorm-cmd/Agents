@@ -1,4 +1,4 @@
-<!-- v3 runbook, phase 1 of 4. Produced by: market-signal-researcher. Saved by the coordinator because this agent is read-only by design. -->
+<!-- v3 runbook, phase 1 of 4. Produced by: market-signal-researcher. Saved by the coordinator because this agent is read-only by design. NOTE: SUPERSEDED by 01b-market-signal-brief-only.md. This web-research version is kept for reference; v3 no longer relies on it. -->
 
 ## Market Signal Brief — "Stop Selling Hours" (narrowed: booked 1:1 expert)
 

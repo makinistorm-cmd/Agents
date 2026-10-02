@@ -1,4 +1,4 @@
-<!-- v3 runbook, phase 4 of 4. Produced by: conversion-system-builder. Coordinator fixed Email 3, Email 4, and the CTA wording (see revenue-agent-demo.md §12). -->
+<!-- v3 runbook, phase 4 of 4. Produced by: conversion-system-builder. Coordinator fixed Email 3, Email 4, and the CTA wording (see revenue-agent-demo.md §12). Also swapped "validate" for "research" after the brief-only rerun. -->
 
 # Conversion System — FuturIQ, "Stop Selling Hours" (v3)
 
@@ -73,7 +73,7 @@
 >
 > Knowing you should build an offer was never the problem. Knowing what to build, and trusting it enough to price it, was.
 >
-> That's what Scout and Strategist are for. Validate before you price. Price before you sell. Skip the order and you're just pricing a guess with better formatting.
+> That's what Scout and Strategist are for. Research before you price. Price before you sell. Skip the order and you're just pricing a guess with better formatting.
 
 **CTA:** Haven't scored your two outputs yet? Do that before the next email.
 
@@ -159,7 +159,7 @@
 - **Email 1's CTA depends entirely on completion.** "Reply with your score" only works if the reader actually ran both prompts and filled the sheet. Anyone who just skims the template has nothing to reply with — expect a real drop-off between download and reply, and don't read silence as disengagement from the whole list.
 - **The honest failure case needs to land right, or it reads as the method failing.** Since the control prompt is now genuinely strong, some viewers' first runs will tie or lose to it. Email 3 has to normalize this immediately (tighten the Brief, rerun Scout) or a non-win reads as "this doesn't actually work," not as the intended go/no-go signal the offer-architecture doc built in.
 - **Placeholders are load-bearing, not decorative.** Email 3's `[insert exact offer sentence from the recording]` and Email 4's `[generic line]` / `[real offer line]` must be filled from real, run-for-real output before send. If they ship with a placeholder or a written-not-run example, the fair-test credibility the whole system is built on breaks the moment a sharp reader notices.
-- **"You've already heard this advice" can boomerang.** If Email 2 lingers on "this isn't new" without pivoting fast to the sequencing mechanism (validate → price → sell), a skeptical reader concludes there's nothing here worth their time. The pivot sentence has to arrive in the same email, not a later one.
+- **"You've already heard this advice" can boomerang.** If Email 2 lingers on "this isn't new" without pivoting fast to the sequencing mechanism (research → price → sell), a skeptical reader concludes there's nothing here worth their time. The pivot sentence has to arrive in the same email, not a later one.
 - **Office hours makes a live-reply promise.** "I read these" and "I'll score it live" require an actual process on the other end. Same risk as the prior version, unchanged: don't send this email until the reply and office-hours logistics are real.
 - **"Score" language risks a grading feel.** Used often across the emails, it needs to stay checklist-plain ("present or not, which line proves it"), not gamified or exam-like — especially in the Sprint email, where "pressure-tested against the Scorecard" must read as help, not a pass/fail test of the reader's business idea.
 - **No paid ask before Email 6.** Unchanged from the prior version and still correct — office hours and the template stay free, the Sprint is the first dollar figure the reader sees.

@@ -1,4 +1,4 @@
-<!-- v3 runbook, phase 2 of 4. Produced by: offer-architect. -->
+<!-- v3 runbook, phase 2 of 4. Produced by: offer-architect. NOTE: after the brief-only market signal rerun (01b), "validate" is softened to "research" and the narrowed audience/pain are labeled [Inference] in revenue-agent-demo.md. This file is kept as the agent originally wrote it. -->
 
 # Offer Architecture — FuturIQ, "Stop Selling Hours"
 
